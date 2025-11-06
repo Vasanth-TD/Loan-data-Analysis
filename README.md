@@ -53,13 +53,13 @@ The dashboard empowers financial institutions to enhance **credit risk assessmen
 ## 🖼️ Dashboard Snapshots
 
 ### 🔹 Overview Page
-![Loan Overview Dashboard](Loan%201.png)
+![image alt](https://github.com/Vasanth-TD/Loan-data-Analysis/blob/8c6dcbeed54f909fc9ea30ed6b45198b2ebc6bc5/Asset/Loan%201.png)
 
 ### 🔹 Financial Risk Metrics Page
-![Financial Risk Metrics Dashboard](Loan%202.png)
+![image alt](https://github.com/Vasanth-TD/Loan-data-Analysis/blob/8c6dcbeed54f909fc9ea30ed6b45198b2ebc6bc5/Asset/Loan%202.png)
 
 ### 🔹 Applicant Demographics & Profile Page
-![Applicant Demographics Dashboard](Loan%203.png)
+![image alt](https://github.com/Vasanth-TD/Loan-data-Analysis/blob/8c6dcbeed54f909fc9ea30ed6b45198b2ebc6bc5/Asset/Loan%203.png)
 
 ---
 

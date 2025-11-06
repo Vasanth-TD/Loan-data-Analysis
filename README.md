@@ -8,8 +8,8 @@
 
 [![DAX](https://img.shields.io/badge/-DAX-green)]()
 
-### 📊 Dashboard Link  
-👉 
+## 📊 Dashboard Link  
+👉 https://app.powerbi.com/Redirect?action=OpenApp&appId=52e5ef64-afc3-4065-8b92-28b066dcb9e3&ctid=5e81dc77-db51-4a31-8660-6858117beb25&experience=power-bi
 
 ---
 
